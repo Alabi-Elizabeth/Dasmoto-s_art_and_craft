@@ -1,0 +1,52 @@
+body {
+    border: 2px solid red;
+    padding: 30px 10px 0;
+}
+
+h1 {
+    background-image: url(../images/background.jpeg);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 20px auto 50px;
+}
+
+h1.overlay {
+    opacity: 0.5;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2.brushes {
+    background-color: mediumspringgreen;
+
+}
+
+h2.frames {
+    background-color: lightcoral;
+}
+
+h2.paint {
+    background-color: skyblue;
+}
+
+h3.paint {
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: Helvetica;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
